@@ -17,7 +17,7 @@
 <distributionManagement>
   <repository>
     <id>releases</id>
-    <!-- CHANGE HERE by your team nexus server sadsd -->
+    <!-- CHANGE HERE by your team nexus server -->
     <url>http://3.21.168.250:8081/repository/maven-releases/</url>
   </repository>
   <snapshotRepository>
