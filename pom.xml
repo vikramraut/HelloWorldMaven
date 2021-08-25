@@ -19,7 +19,7 @@
     <id>rinternal.repo</id>
     <name>Internal repo</name>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>file://var/lib/jenkins/myartifacts</url>
+    <url>file://var/lib/jenkins/myartifacts/</url>
   </repository>
 </distributionManagement>
 
